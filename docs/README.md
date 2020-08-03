@@ -9,7 +9,7 @@ While working with the definitions of document or media types in the Backoffice 
 
 ![Initial 'Select icon' view for definitions of document and media types](sc-line-awesome-setup.png)
 
-If you would like to view only Line Awesome icons, type 'la-' in the 'Type to filter...' textbox. 
+If you would like to view only Line Awesome icons, type *'la-'* in the 'Type to filter...' textbox. 
 
 ![Line Awesome icons available for uses](sc-line-awesome-icon-pack-example.png)
 
