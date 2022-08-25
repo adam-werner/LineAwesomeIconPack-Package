@@ -43,5 +43,48 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-brands-400.eot" />
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-brands-400.svg" />
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-regular-400.svg" />
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-solid-900.svg" />
+    <Content Include="App_Plugins\LineAwesomeIconPack\line-awesome.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-brands-400.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-brands-400.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-brands-400.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-regular-400.eot" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-regular-400.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-regular-400.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-regular-400.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-solid-900.eot" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-solid-900.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-solid-900.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\fonts\la-solid-900.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\LineAwesomeIconPack\package.manifest" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
